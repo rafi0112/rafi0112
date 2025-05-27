@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning *Cloud Computing and DevOps*
 - 👯 I’m looking to collaborate on *Open Source Projects*
 - 💬 Ask me about *MERN Stack, C, C++, Python*o
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [rafi011235@gmail.com](mailto:rafi011235@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and exploring new technologies!
 
 ---
