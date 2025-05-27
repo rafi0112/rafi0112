@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80" alt="Gradient Nature Banner" width="100%" />
+  <img src="https://www.istockphoto.com/photo/rainforest-of-chiapas-mexico-gm1166739106-321508755" alt="Gradient Nature Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rafi</h1>
