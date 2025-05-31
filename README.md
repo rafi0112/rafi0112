@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80" alt="Gradient Nature Banner" style="width:100%;height:360px;object-fit:cover;">
+  <img src="https://i.ibb.co/JFHhZC5r/image.png" alt="Cover Photo" style="width:100%;height:100%;object-fit:cover;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rafi</h1>
