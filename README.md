@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/JFHhZC5r/image.png" alt="Cover Photo" style="width:100%;height:100%;object-fit:cover;">
+  <img src="https://github.com/user-attachments/assets/fff75c42-351b-4c7e-be4d-bf111c21e0a1" alt="Cover Photo" style="width:100%;height:360px;object-fit:cover;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rafi</h1>
